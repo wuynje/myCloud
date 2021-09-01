@@ -66,7 +66,6 @@ com.ruoyi
 ## 在线体验
 
 - admin/admin123  
-- 陆陆续续收到一些打赏，为了更好的体验已用于演示服务器升级。谢谢各位小伙伴。
 
 演示地址：http://ruoyi.vip  
 文档地址：http://doc.ruoyi.vip
@@ -112,7 +111,3 @@ com.ruoyi
     </tr>
 </table>
 
-
-## 若依微服务交流群
-
-QQ群： [![加入QQ群](https://img.shields.io/badge/已满-42799195-blue.svg)](https://jq.qq.com/?_wv=1027&k=yqInfq0S) [![加入QQ群](https://img.shields.io/badge/已满-170157040-blue.svg)](https://jq.qq.com/?_wv=1027&k=Oy1mb3p8) [![加入QQ群](https://img.shields.io/badge/已满-130643120-blue.svg)](https://jq.qq.com/?_wv=1027&k=rvxkJtXK) [![加入QQ群](https://img.shields.io/badge/225920371-blue.svg)](https://jq.qq.com/?_wv=1027&k=0Ck3PvTe) 点击按钮入群。
